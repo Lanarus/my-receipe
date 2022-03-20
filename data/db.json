@@ -1,0 +1,53 @@
+{
+  "recipes": [
+    {
+      "title": "Śniadanie/Placuszki bananowe bez jajek",
+      "ingredients": "Mąka orkiszowa 300 g, Banan 400 g 4 średnie sztuki, Jogurt naturalny 2% 300 g, Proszek do pieczenia 30 g, Olej rzepakowy 120 ml",
+      "cooking": "1)Banany obierz ze skórki i rozgnieć widelcem.\n2)Do bananów dodaj jogurt naturalny, mąkę i proszek do pieczenia, wymieszaj.\n3)Na patelni rozgrzej olej rzepakowy i nakładaj partiami ciasto na placki.\n4)Smaż po 3-4 minuty z każdej strony, aż będą rumiane.",
+      "level": "łatwy",
+      "id": 1
+    },
+    {
+      "title": "Śniadanie/Omlet bez mleka",
+      "ingredients": "Jajko 3 szt. Masło 50 g. Cebula 30 g 1 mała sztuka. Natka pietruszki 20 g 1 pęczek\nPrzyprawy\nsól, pieprz, oregano, suszone pomidory z chilli",
+      "cooking": "1)Wbij jajka do miski, dodaj dwie łyżki wody i wymieszaj.\n2)Dodaj sól, pieprz, oregano i suszone pomidory.\n3)Obierz z łupiny cebulę i posiekaj drobno.\n4)Posiekaj natkę pietruszki.\n5)Na patelni rozgrzej masło i zeszklij cebulę.\n6)Wlej masę jajeczną na patelnię i wymieszaj jak jajecznicę.\n7)Gdy masa lekko się zetnie, zostaw omlet i smaż przez 2-3 minuty.\n8)Omlet zdejmij z patelni i złóż go na pół.",
+      "level": "średni",
+      "id": 2
+    },
+    {
+      "title": "Obiad/Filet z kurczaka z warzywami",
+      "ingredients": "Piersi kurczaka bez skóry 400 g 2 sztuki, Marchewka 120 g 2 sztuki, Papryka czerwona 100 g 1 sztuka, Papryka zielona 100 g 1 sztuka, Seler korzeniowy 100 g 1 sztuka, Cebula 100 g 1 sztuka, Czosnek 10 g 2 ząbki, Olej rzepakowy 20 ml 2 łyżki\nPrzyprawy: sól, pieprz, papryka wędzona, papryka ostra",
+      "cooking": "1)Pierś z kurczaka dokładnie umyj i oczyść, pokrój w kostkę.\n2)Olej rozgrzej na patelni, wrzuć drobno pokrojoną cebulę i czosnek.\n3)Dodaj mięso i delikatnie obsmażaj, następnie dopraw do smaku.\n4)Papryki i marchew pokrój w słupki, seler zetrzyj na tarce i wrzuć na patelnię.\n5)Danie duś pod przykryciem tak, aby powstał delikatny sos.\n6)Potrawę podawaj z ryżem.",
+      "level": "średni",
+      "id": 3
+    },
+    {
+      "title": "Kolacja/bozbasz",
+      "ingredients": "Udziec barani 300 g\nZiemniaki późne 300 g\nBakłażan 150 g\nPapryka czerwona 150 g\nFasolka szparagowa 100 g\nCebula 150 g\nPomidor 120 g\nPassata pomidorowa 125 g\nOlej rzepakowy 20 ml\n\nPrzyprawy\nsól, pieprz, natka pietruszki świeża, kolendra świeża, bazylia",
+      "cooking": "Mięso zalej wodą. Ugotuj, aż stanie się miękkie.\n\nUgotowane, miękkie mięso odstaw na bok, a wodę po gotowaniu przelej przez sitko. Zostaw około 800 ml płynu.\n\nW sporym garnku rozgrzej olej.\n\nPosiekaj drobno cebulę i zeszklij.\n\nObrane i umyte ziemniaki, paprykę i bakłażana pokrój w większą kostkę. Ugotowane mięso także pokrój w sporą kostkę.\n\nDodaj pokrojone warzywa oraz ugotowane mięso do cebuli i smaż około 10 minut na wolnym ogniu pod przykryciem. W razie potrzeby zacznij dolewać płyn po gotowaniu mięsa.\n\nFasolkę obierz (usuń końcówki) i dodaj do warzyw. Smaż 5 minut z resztą warzyw.\n\nPokrój pomidora w dużą kostkę.\n\nDodaj do warzyw, wlej resztę płynu, a także passatę. Przypraw do smaku ziołami, solą i pieprzem. Gotuj do miękkości warzyw.\n\nZupa jest gotowa, gdy wszystkie warzywa są miękkie.",
+      "level": "trudny",
+      "id": 4
+    },
+    {
+      "title": "Obiad/Pierogi ze szpinakiem",
+      "ingredients": "Mąka pszenna typ 550 500 g\nMasło 45 g\nSzpinak mrożony 500 g Szpinak może być świeży\nSerek kanapkowy naturalny 125 g\nCzosnek 12 g\nPrzyprawy\nsól, pieprz",
+      "cooking": "Przygotuj ciasto na pierogi: przesiej mąkę, dodaj sól (łyżeczkę). W suchych składnikach zrób dołek, dodaj do niego 30g masła oraz wlej szklankę ciepłej wody. Z przygotowanych składników wyrób ciasto. Gdy ciasto będzie za rzadkie dosyp więcej mąki. Gotowe ciasto zawiń w folię i włóż do lodówki na pół godziny.\n\nPrzygotuj farsz: na patelni rozpuść pozostałe masło (15g) i dodaj szpinak (rozmrożony), podduś w celu odparowania nadmiaru wody. Dodaj czosnek, sól i opcjonalnie pieprz. Tak przygotowany szpinak wymieszaj z serkiem kremowym.\n\nRozwałkuj ciasto, szklanką wytnij krążki. Na każdy krążek nałóż farsz i zlep pierogi.\n\nW garnku zagotuj wodę z dodatkiem odrobiny soli i gotuj w niej pierogi (będą gotowe około 2 minut od momentu wypłynięcia na wierzch).",
+      "level": "trudny",
+      "id": 5
+    },
+    {
+      "title": "Deser/Biszkopt makowy",
+      "ingredients": "\nJajko 5 szt.\nCukier 160 g\nCukier waniliowy 15 g 1 łyżka\nMąka pszenna - typ 450 (tortowa) 270 g\nProszek do pieczenia 5 g 1 łyżeczka\nMak niebieski 70 g 1/2 szklanki\nMleko 2% 900 ml\nCukier puder 260 g\nBudyń (proszek) 35 g 1 opakowanie, waniliowy, bez cukru\nMąka ziemniaczana 25 g 1 łyżka\nŻółtko jajka 2 szt. dodatkowe\nMasło 260 g\nWiórki kokosowe 180 g\nAnanas w puszce 565 g 1 opakowanie\nŚmietanka kremowa 36% 330 ml\nGalaretka 75 g 1 opakowanie, cytrynowa\nSok cytrynowy 20 ml 2 łyżki\nPrzyprawy\ncukier puder, proszek do pieczenia, cukier",
+      "cooking": "Oddziel białka od żółtek. Białka ubij na sztywną pianę ze szczyptą soli.\n\nDodając powoli 160g cukru i cukier waniliowy mieszaj mikserem do uzyskania lśniącej i gęstej masy.\n\nWmieszaj delikatnie pozostałe po oddzieleniu żółtka.\n\nPrzesiej do masy 190g mąki pszennej i proszek do pieczenia. Następnie dodaj mak i wymieszaj delikatnie szpatułką.\n\nPrzelej ciasto do formy wyłożonej papierem do pieczenia. Piecz w 180 stopniach przez 35 minut. Zostaw do ostygnięcia.\n\nWiórki kokosowe zmiel za pomocą blendera.\n\nWlej 0,5l mleka do garnka, dodaj 200g cukru pudru i zagotuj.\n\nPozostałe mleko wymieszaj za pomocą miksera z budyniem, mąką ziemniaczaną, 80g mąki pszennej i żółtkami. Powoli dolewaj do gotującego się mleka, do uzyskania gęstej masy.\n\nDodaj wiórki kokosowe, wymieszaj i zostaw przykryty folią spożywczą do ostygnięcia.\n\nOsącz ananasa z zalewy zachowując syrop. Do syropu dodaj pół szklanki wody i sok z cytryny.\n\nGalaretkę rozpuść w 1,5 szklanki wrzątku. Zostaw do ostygnięcia od czasu do czasu mieszając.\n\nMasło utrzyj mikserem, aż zrobi się puch. Następnie dodaj wystudzoną masę budyniową i znów miksuj do połączenia składników.\n\nWystudzony biszkopt wyłóż z formy i przekrój wzdłuż na dwie równe części. Dolną część włóż z powrotem do formy, następnie nasącz połową przygotowanego syropu ananasowego z sokiem cytrynowym.\n\nWlej śmietanę do miski i ubij na sztywno z dodatkiem pozostałego cukru pudru.\n\nNa przygotowany spód biszkopta wyłóż połowę masy budyniowej i ułóż na niej kawałki ananasa. Następnie przykryj go pozostałą masą budyniową.\n\nNa wierzch połóż pozostałą część biszkopta, delikatnie ściągnij z niego przypieczoną skórkę, po czym nasącz pozostałym syropem.\n\nUbitą śmietanę połącz z ostudzoną galaretką i wylej na wierzch ciasta.\n\nSchłodź ciasto w lodówce przez 3-4 godziny, aż dobrze stężeje.",
+      "level": "trudny",
+      "id": 6
+    },
+    {
+      "title": "Zupa pieczarkowa",
+      "ingredients": "Pieczarki 800 g\nMarchewka 300 g 5 sztuk\nPietruszka 160 g 2 sztuki\nCebula 150 g 2 sztuki\nMasło 30 g\nŚmietana 18% 200 g\nMakaron świderki 400 g\nSeler korzeniowy 150 g 1/2 sztuki\nPrzyprawy\nsól, pieprz, ziele angielskie, liść laurowy",
+      "cooking": "Warzywa korzeniowe umyj, obierz i pokrój w drobną kostkę.\n\nCebulę obierz i pokrój w kostkę.\n\nNa patelni rozpuść masło i podsmaż na nim cebulę na złoto. Następnie dodaj warzywa i smaż razem przez kilka minut.\n\nPieczarki oczyść i pokrój w plasterki.\n\nDo garnka włóż pieczarki i dodaj cebulę z warzywami z patelni.\n\nDolej 2 litry wody. Dodaj 5 liści laurowych, 8 kulek ziela angielskiego, pół łyżeczki pieprzu ziarnistego i łyżeczkę soli.\n\nGotuj całość około 40 minut.\n\nW tym czasie w drugim garnku ugotuj makaron al dente według instrukcji na opakowaniu. Odcedź na sitku i przelej zimną wodą.\n\nGdy warzywa zmiękną, dodaj do garnka z zupą makaron.\n\nDo wysokiego naczynia wlej śmietanę i ją zahartuj, dodając łyżkę zupy i mieszając. Całość wlej do zupy.\n\nW razie konieczności dopraw solą i pieprzem.",
+      "level": "łatwy",
+      "id": 7
+    }
+  ]
+}
